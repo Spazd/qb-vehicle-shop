@@ -4,6 +4,8 @@ This is a qb-script but I had just added on to it to make a pd shop
 
 Full credit for the script goes to qb-core
 
+**THIS WILL ONLY WORK IF YOU USE GABZS PD**
+
 **Preview of Shop:**
 
 ![image](https://cdn.discordapp.com/attachments/833748218516209744/915104784099467334/unknown.png)
