@@ -163,7 +163,7 @@ Config.Shops = {
         ['ShopLabel'] = 'PD Shop',
         ['showBlip'] = false,  --- true or false
         ['Categories'] = {
-            ['pd'] = 'Police',
+            ['police'] = 'Police',
         },
         ['TestDriveTimeLimit'] = 0.5,
         ['Location'] = vector3(435.47, -975.84, 24.39),
